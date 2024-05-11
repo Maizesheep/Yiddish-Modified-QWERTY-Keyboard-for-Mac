@@ -24,6 +24,6 @@ Shift + [key] includes these results:
 </ul>
 
 ## Installation
-Copy both YiddishQ.keylayout and Yiddish.icns to ~/Library/Keyboard Layouts.
+Copy both YiddishQ.keylayout and YiddishQ.icns to ~/Library/Keyboard Layouts.
 
 ![keyboard-layout-mac](https://github.com/Maizesheep/Yiddish-Modified-QWERTY-Keyboard-for-Mac/assets/96145017/61102715-acc2-4661-b61d-21a21e6bd6a2)
