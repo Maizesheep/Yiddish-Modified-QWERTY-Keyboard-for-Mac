@@ -51,10 +51,10 @@
     </modifierMap>
     <keyMapSet id="ANSI">
         <keyMap index="0">
-            <key code="0" output="אַ"/>
+            <key code="0" output="אַ"/>
             <key code="1" output="ס"/>
             <key code="2" output="ד"/>
-            <key code="3" output="פֿ"/>
+            <key code="3" output="פֿ"/>
             <key code="4" output="ה"/>
             <key code="5" output="ג"/>
             <key code="6" output="ז"/>
@@ -67,7 +67,7 @@
             <key code="13" output="ש"/>
             <key code="14" output="ע"/>
             <key code="15" output="ר"/>
-            <key code="16" output="ײַ"/>
+            <key code="16" output="ײַ"/>
             <key code="17" output="ט"/>
             <key code="18" output="1"/>
             <key code="19" output="2"/>
@@ -82,7 +82,7 @@
             <key code="28" output="8"/>
             <key code="29" output="0"/>
             <key code="30" output="["/>
-            <key code="31" output="אָ"/>
+            <key code="31" output="אָ"/>
             <key code="32" output="ו"/>
             <key code="33" output="]"/>
             <key code="34" output="י"/>
@@ -189,7 +189,7 @@
             <key code="29" output="("/>
             <key code="30" output="}"/>
             <key code="31" output="ױ"/>
-            <key code="32" output="וּ"/>
+            <key code="32" output="וּ"/>
             <key code="33" output="{"/>
             <key code="34" output="יִ"/>
             <key code="35" output="ףֿ"/>
@@ -263,23 +263,23 @@
             <key code="126" output="&#x001E;"/>
         </keyMap>
         <keyMap index="2">
-            <key code="0" output="אַ"/>
+            <key code="0" output="אַ"/>
             <key code="1" output=""/>
             <key code="2" output=""/>
-            <key code="3" output="פֿ"/>
+            <key code="3" output="פֿ"/>
             <key code="4" output=""/>
             <key code="5" output=""/>
             <key code="6" output=""/>
             <key code="7" output="כֿ"/>
             <key code="8" output=""/>
-            <key code="9" output=""/>
+            <key code="9" output="וו"/>
             <key code="10" output=""/>
             <key code="11" output=""/>
             <key code="12" output=""/>
             <key code="13" output=""/>
             <key code="14" output=""/>
             <key code="15" output=""/>
-            <key code="16" output="ײַ"/>
+            <key code="16" output="ײַ"/>
             <key code="17" output="תֿ"/>
             <key code="18" output=""/>
             <key code="19" output=""/>
@@ -294,8 +294,8 @@
             <key code="28" output=""/>
             <key code="29" output=""/>
             <key code="30" output=""/>
-            <key code="31" output="אָ"/>
-            <key code="32" output=""/>
+            <key code="31" output="אָ"/>
+            <key code="32" output="וּ"/>
             <key code="33" output=""/>
             <key code="34" output=""/>
             <key code="35" output="פּ"/>
